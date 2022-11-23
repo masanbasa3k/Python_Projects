@@ -13,5 +13,6 @@ pytesseract.tesseract_cmd = path_to_tesseract
 # Open image with PIL
 img = Image.open(path_to_image)
 
+# Print the text
 text = pytesseract.image_to_string(img)
 print(text)
