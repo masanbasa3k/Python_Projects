@@ -6,3 +6,8 @@ Csv to Sqlite
 Calculator Gui
 
 ![calculator](https://user-images.githubusercontent.com/66223190/216130817-d6d1e409-bc14-4351-ad7e-6d6f185001d8.jpeg)
+
+Live Webcam to ASCII
+
+![ascii-camera](ascii-camera/demo.gif)
+
