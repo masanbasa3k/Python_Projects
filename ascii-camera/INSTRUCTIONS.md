@@ -6,7 +6,7 @@
 
 **Change Current Folder:**
 ```
-cd img-to-ascii
+cd ascii-camera
 ```
 
 **Install:**
